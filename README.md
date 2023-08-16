@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangram Swain.</h1>
 <h3 align="center">A passionate Full Stack and AI Software Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangramswain4035" alt="sangramswain4035" /></a> </p>
-
 - 🔭 I’m currently working on **Conversational AIs for Enterprise**
 
 - 🌱 I’m currently learning **DS and Algos, LLMs and Python.**
