@@ -13,6 +13,11 @@
 
 - 📄 Know about my experiences [Currently working in Schneider Electric.](Currently working in Schneider Electric.)
 
+<h3 align="left">Badges:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sangram swain" target="blank"><img align="center" src="https://www.codewars.com/users/sangram4035/badges/large" alt="sangram swain" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sangram swain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram swain" height="30" width="40" /></a>
